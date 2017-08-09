@@ -38,7 +38,7 @@ h3{
 
 img{
   width: 933px;
-  padding-top: 15px;
+ 
 
 }
 .contenido{
@@ -62,13 +62,13 @@ img{
   height: 270px;
   background: #F78E69;
   text-align: justify;
-  padding: 10px;
+  padding: 5px;
   margin: 20px auto;
 
 }
 #page{
-  width:76%;
-  height: 2280px;
+  width:77.3%;
+  height: 2550px;
   background:#F78E69;
   margin: 0px auto;
 }
@@ -77,4 +77,19 @@ footer{
   text-align: right;
   padding: 5px;
   font-size: 14px;
+}
+
+ #PicturesPanda{
+  margin: 0 auto;
+  padding: 0px 230px;
+ }
+ .photo{
+
+  width: 90px;
+  height: 90px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  border: 2px solid white;
+
 }
